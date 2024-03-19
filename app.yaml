@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: thibaultleouay-wasmer-flask
+package: thibaultleouay/wasmer-flask
